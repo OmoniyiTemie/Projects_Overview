@@ -18,7 +18,7 @@
 
 -------------------------------------------------------------------------------------------------------
 
-## PROJECT 1: OPTIMIZATION OF SPOTIFY'S OPERATIONAL COSTS
+## [PROJECT 1: OPTIMIZATION OF SPOTIFY'S OPERATIONAL COSTS] ()
 
 - Cleaned and standardized Spotify's financial datasets, addressed missing values, and explored relationships among operational costs and profitability metrics.
   
@@ -30,7 +30,7 @@
 
 -------------------------------------------------------------------------------------------------------
 
-## PROJECT 2: CONSUMER BEHAVIOR AND PURCHASING INTENTIONS IN E-COMMERCE
+## [PROJECT 2: CONSUMER BEHAVIOR AND PURCHASING INTENTIONS IN E-COMMERCE] ()
 
 - Cleaned e-commerce browsing datasets, standardized features, and explored shopper behaviors to understand purchasing intentions.
 
