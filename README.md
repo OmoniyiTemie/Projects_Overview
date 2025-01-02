@@ -44,7 +44,7 @@ These methods allowed me to uncover valuable insights, delivering actionable rec
 
 
 
-## [PROJECT 2: CONSUMER BEHAVIOR AND PURCHASING INTENTIONS IN E-COMMERCE] ()
+## [PROJECT 2: CONSUMER BEHAVIOR AND PURCHASING INTENTIONS IN E-COMMERCE](https://github.com/OmoniyiTemie/Consumer_Behaviour_and_Purchasing_Intentions_In_ECommerce/blob/9be80fc75437caf360fcbc310e8b9a4b58805325/README.md)
 
 - Cleaned e-commerce browsing datasets, standardized features, and explored shopper behaviors to understand purchasing intentions.
 
