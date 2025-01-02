@@ -10,13 +10,19 @@
 - Uncovering insights
 
 
- I used Python programming to carry out data mining, extracting and transforming complex datasets into actionable formats. This enabled effective data preparation and exploration, ensuring accuracy and readiness for analysis. 
+I used Python programming to carry out data mining, extracting and transforming complex datasets into actionable formats. This enabled effective data preparation and exploration, ensuring accuracy and readiness for analysis. 
  
- Through data visualization techniques, I uncovered patterns and trends, enhancing understanding of the underlying data. I performed trend analysis to identify historical and seasonal shifts, providing a foundation for diagnostic, predictive, and prescriptive analytics. 
+Through data visualization techniques, I uncovered patterns and trends, enhancing understanding of the underlying data. I performed trend analysis to identify historical and seasonal shifts, providing a foundation for diagnostic, predictive, and prescriptive analytics. 
  
- These methods allowed me to uncover valuable insights, delivering actionable recommendations to address business challenges and drive strategic decisions.
+These methods allowed me to uncover valuable insights, delivering actionable recommendations to address business challenges and drive strategic decisions.
+
+ 
+ 
 
 -------------------------------------------------------------------------------------------------------
+
+
+
 
 ## [PROJECT 1: OPTIMIZATION OF SPOTIFY'S OPERATIONAL COSTS] ()
 
@@ -30,12 +36,32 @@
 
 
 ![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Gross%20Profit%20Margin%20Distribution.png)
+
+
+
 ![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Feature%20Importance%20on%20Efficiency%20Score.png)
+
+
+
 ![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Shapely%20Chart.jpg)
+
+
+
 ![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Gross%20Profit%20Margin%20Analysis.PNG)
+
+
+
 ![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Spotify%20Dashboard_Tracking.PNG)
 
+
+
+
+
 -------------------------------------------------------------------------------------------------------
+
+
+
+
 
 ## [PROJECT 2: CONSUMER BEHAVIOR AND PURCHASING INTENTIONS IN E-COMMERCE] ()
 
