@@ -28,6 +28,13 @@
   
 - Highlighted cost control challenges, proposed scalable solutions, and delivered recommendations to enhance profitability and operational effectiveness.
 
+
+![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Gross%20Profit%20Margin%20Distribution.png)
+![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Feature%20Importance%20on%20Efficiency%20Score.png)
+![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Shapely%20Chart.jpg)
+![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Gross%20Profit%20Margin%20Analysis.PNG)
+![](https://github.com/OmoniyiTemie/Temie_Portfolio/blob/main/images/Spotify%20Dashboard_Tracking.PNG)
+
 -------------------------------------------------------------------------------------------------------
 
 ## [PROJECT 2: CONSUMER BEHAVIOR AND PURCHASING INTENTIONS IN E-COMMERCE] ()
