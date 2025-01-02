@@ -24,7 +24,7 @@ These methods allowed me to uncover valuable insights, delivering actionable rec
 
 
 
-## [PROJECT 1: OPTIMIZATION OF SPOTIFY'S OPERATIONAL COSTS] ()
+## [PROJECT 1: OPTIMIZATION OF SPOTIFY'S OPERATIONAL COSTS](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/57de8146f668d8cdda55072e982a00d262b33edf/README.md)
 
 - Cleaned and standardized Spotify's financial datasets, addressed missing values, and explored relationships among operational costs and profitability metrics.
   
