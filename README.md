@@ -1,5 +1,6 @@
-# PORTFOLIO OVERVIEW
+# PROJECTS OVERVIEW
 
+- SQL Querying and Database Management
 - Python Programming
 - Data Mining
 - Data Visualization
@@ -53,5 +54,44 @@ These methods allowed me to uncover valuable insights, delivering actionable rec
 - Built predictive models to estimate purchase likelihoods, segmented customers using clustering, and proposed strategies for improved marketing and resource allocation.
 
 - Revealed key drivers of purchasing decisions, identified distinct shopper personas, and delivered actionable insights for enhancing conversion rates and ROI.
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+
+## [PROJECT 3: INCOME IN FOCUS, MAPPING THE U.S. HOUSEHOLD EARNINGS LANDSCAPE](https://github.com/OmoniyiTemie/US_Household_Income)
+
+- Cleaned and preprocessed U.S. household income data using SQL queries, standardized income ranges, and filtered data based on key demographic factors to analyze income distribution.
+
+- Used SQL joins and aggregations to explore regional income disparities, identify trends in income growth, and analyze correlations between income, education, occupation, and geographic location.
+
+- Created complex SQL queries to segment households by income brackets, calculate average income per region, and estimate income distribution across various demographic categories.
+
+- Developed SQL-based data models to identify key determinants of household income variations, segment households using clustering techniques, and generate insights for policy recommendations on income equality.
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+
+## [PROJECT 4: GLOBAL LIFE EXPECTANCY PATTERN, EXPLORING THE INTERSECTION OF HEALTH, ECONOMICS, AND DEMOGRAPHICS](https://github.com/OmoniyiTemie/World_Life_Expectancy/tree/main)
+
+- Cleaned the *World Life Expectancy* dataset using SQL, addressing missing values and standardizing country names to maintain data integrity.
+
+- Investigated life expectancy patterns across different regions and countries, leveraging SQL queries to group and aggregate data based on factors such as GDP, healthcare access, and education.
+
+- Integrated demographic, socio-economic, and health datasets through SQL joins, identifying correlations between life expectancy and variables like income, literacy rates, and environmental conditions.
+
+- Developed SQL-based models to pinpoint key factors influencing life expectancy, segment countries by life expectancy categories, and generate actionable insights for improving global health policies.
+
 
 
